@@ -1,0 +1,8 @@
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/nimesh_mac/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C5:83:C7:41:66:53:D2:E1:5D:D0:64:F5:22:AC:A7:98
+SHA1: 8A:32:EE:82:5E:2E:9F:E5:15:84:7F:39:3A:98:00:EE:FE:92:0F:05
+SHA-256: 1E:B1:B9:A8:76:0D:02:D0:0F:07:21:1B:37:E2:D4:6C:26:AA:58:C3:B1:99:41:F7:A1:79:C4:16:46:E7:45:87
+Valid until: Thursday, November 21, 2052

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747754645420",
+    "project_id": "signinx-4645b",
+    "storage_bucket": "signinx-4645b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747754645420:android:70971213982cba20217c09",
+        "android_client_info": {
+          "package_name": "com.ccl.doc.upload.ccl_doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747754645420-n76edes9t236hcvjvnnlvhjq697b9dbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu77GTKsAZrSVwc3CeSglv3SS6VARy7oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747754645420-n76edes9t236hcvjvnnlvhjq697b9dbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
